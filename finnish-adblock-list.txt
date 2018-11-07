@@ -3,6 +3,7 @@
 ! Title: Finnish Adblock List
 ! Description: Finnish adblock list
 ! Last modified: 22st of October 2018
+! License: https://unlicense.org/
 
 /bannerit/*$domain=~www.jhl.fi|~www.karkkainen.com|~www.unisport.fi|~unisport.fi|~f9.fi
 /pixel.gif$domain=~www.damnlol.com
