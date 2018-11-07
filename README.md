@@ -7,6 +7,6 @@ The list's author tried to use it as a political tool and as a result of his act
 
 The rules blocking finnish labour union websites have been removed from this version.
 
-NOTE: I will not continue updating the list. My goal was just to make it available so it can be used. If you'd like to continue maintaining this list, you are free to clone the repo and do as you wish!
-
 Import or view the list: **[https://buak.github.io/Suomilista/finnish-adblock-list.txt](https://buak.github.io/Suomilista/finnish-adblock-list.txt)**
+
+NOTE: I will not continue updating the list. My goal was just to make it available so it can be used. If you'd like to continue maintaining this list, you are free to clone the repo and do as you wish!
