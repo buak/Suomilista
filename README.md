@@ -1,6 +1,6 @@
 
 This is a backup of the last version of the deleted finnish list from October 22nd, 2018.
-The list's author tried to use it as a political tool and as a result of his actions, the list was removed from most adblockers. The author—not pleased by this—subsequently deleted the list and abandoned maintaining it altogether.
+The list's author tried to use it as a political tool and as a result of his actions, which were seen as breach of trust, the list was removed from most adblockers. The author—not pleased by this—subsequently deleted the list and abandoned maintaining it altogether.
 
 The controversial rules that blocked finnish labour union websites, and started the whole debackle have been removed from this version. The remaining rules have not been touched.
 
