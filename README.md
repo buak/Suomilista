@@ -3,7 +3,7 @@
 **Finnish adblocking filter list**
 
 This is a backup of the last version of the deleted finnish list from October 22nd, 2018.
-The list's author tried to use it as a political tool and as a result of his actions, the list was removed from most adblockers. The author - not pleased by this - subsequently deleted the list and abandoned maintaining it altogether.
+The list's author tried to use it as a political tool and as a result of his actions, the list was removed from most adblockers. The author—not pleased by this—subsequently deleted the list and abandoned maintaining it altogether.
 
 The rules blocking finnish labour union websites have been removed from this version.
 
