@@ -8,6 +8,4 @@ The rules blocking finnish labour union websites have been removed from this ver
 
 NOTE: I will not continue updating the list.
 
-**Import the list with this: https://buak.github.io/Suomilista/finnish-adblock-list.txt**
-
-
+Import or view the list: **[https://buak.github.io/Suomilista/finnish-adblock-list.txt](https://buak.github.io/Suomilista/finnish-adblock-list.txt)**
