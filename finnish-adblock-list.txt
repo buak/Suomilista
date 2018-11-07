@@ -1,9 +1,8 @@
 [Adblock]
 ! Version: 20181022
-! Title: Adblock List for Finland
+! Title: Finnish Adblock List
 ! Description: Finnish adblock list
 ! Last modified: 22st of October 2018
-! Expires: 7 days (update frequency)
 
 /bannerit/*$domain=~www.jhl.fi|~www.karkkainen.com|~www.unisport.fi|~unisport.fi|~f9.fi
 /pixel.gif$domain=~www.damnlol.com
