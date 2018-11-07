@@ -1,8 +1,9 @@
 [Adblock]
-! Version: 20181022
+! Version: 20181107
 ! Title: Finnish Adblock List
 ! Description: Finnish adblock list
-! Last modified: 22nd of October 2018
+! Last modified: 7th of November 2018
+! Expires: 7 days
 ! License: https://unlicense.org/
 
 /bannerit/*$domain=~www.jhl.fi|~www.karkkainen.com|~www.unisport.fi|~unisport.fi|~f9.fi
